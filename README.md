@@ -80,7 +80,7 @@ Le système est organisé autour de plusieurs entités principales:
 
 ```bash
 # Cloner le dépôt
-git clone https://github.com/yourusername/paperworm.git
+git clone https://github.com/simon-stephan/paperworm.git
 cd paperworm
 
 # Installer les dépendances
